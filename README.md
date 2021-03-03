@@ -28,7 +28,7 @@ O objetivo dessa aplicação foi para colocar em prática conhecimento de como c
 
 ## 🖼 Layout
 
-<img src="https://user-images.githubusercontent.com/51330232/109791205-efc58980-7bf0-11eb-98d4-a4dac19d1531.png" width="450"/>
+<img src="https://user-images.githubusercontent.com/51330232/109791205-efc58980-7bf0-11eb-98d4-a4dac19d1531.png"/>
 
 ### :muscle: Quem deu aquela força para não desistir?
 
