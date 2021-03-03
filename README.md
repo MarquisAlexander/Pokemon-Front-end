@@ -1,3 +1,42 @@
+<h2 align="center">
+    🚀 PokeList
+</h2>
+
+<p align="center">
+    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-informações">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Layout</a>
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto fou desenvolvido com as seguintes tecnologias:
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Styled-components](https://styled-components.com/)
+
+Extras:
+
+- Main Libs
+    - [Axios](https://github.com/axios/axios)
+
+## 🤔 Informações
+
+O objetivo dessa aplicação foi para colocar em prática conhecimento de como consumir uma api. 
+- Essa aplicação lista todos os pokemons
+- A listagem dos pokemons é feita por páginação.
+
+## 🖼 Layout
+
+<img src="https://user-images.githubusercontent.com/51330232/109791205-efc58980-7bf0-11eb-98d4-a4dac19d1531.png" width="450"/>
+
+### :muscle: Quem deu aquela força para não desistir?
+
+O pessoal da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
+Entrem na [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
+
+README feito com ❤️ by **Meus amigos e MarquisAlexander**
+
 # Pokemon List
 
 Essa é uma aplicação frontend, essa aplicação é alimentada pela api https://pokeapi.co/api/v2/pokemon
